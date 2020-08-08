@@ -1,0 +1,11 @@
+{{> partialOne}}
+{{> partialTwo}}
+
+<h2>Liste of my Fav Cities</h2>
+<ul>
+    {{#if listExists}}
+        {{#each favCities}}
+            <li class="{{this.state}}">{{this.city}}</li>
+        {{/each}}
+    {{/if}}
+</ul>

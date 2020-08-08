@@ -1,0 +1,2 @@
+Mongo DB AWS Remote Connection URL - mongodb://adityabansal:abcde123@3.129.61.194:27017/dotcomengineer?authSource=admin
+Restricting access to files - https://stackoverflow.com/questions/42184295/disable-access-to-files-with-express-node-server
